@@ -1,1 +1,1 @@
-# mazeGame-OpenGL-CPP
+# 3D Maze Game in OpenGL-CPP
