@@ -20,7 +20,7 @@ For Windows :
 
 Screenshots:
 
-![plot](./Screenshots/start.png)
-![plot](./Screenshots/navigation.png)
-![plot](./Screenshots/top.png)
-![plot](./Screenshots/exit.png)
+![plot](./Screenshots/start.PNG)
+![plot](./Screenshots/navigation.PNG)
+![plot](./Screenshots/top.PNG)
+![plot](./Screenshots/exit.PNG)
