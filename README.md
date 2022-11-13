@@ -17,3 +17,10 @@ For Windows :
   3. Change Bundled MinGW of CLion from its settings (Ctrl+Alt+S -> Build, Execution, Deployment -> Toolchains -> Toolset) to installed location of MinGW on your PC.
   3. Run game.
   4. Enjoy !
+
+Screenshots:
+
+![plot](./Screenshots/start.png)
+![plot](./Screenshots/navigation.png)
+![plot](./Screenshots/top.png)
+![plot](./Screenshots/exit.png)
